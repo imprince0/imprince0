@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A Full-Stack Developer building scalable and high-performance applications from India.</h3>
+<h3 align="center">Full-Stack Developer | Cloud & AWS Enthusiast | Competitive Programmer</h3>
+
+<table>
+<tr>
+<td valign="top" width="65%">
+
+I'm a software engineer specializing in building robust, high-performance applications from end to end. My expertise lies in architecting scalable backend systems with **Python** and **FastAPI**, creating dynamic user experiences with **Next.js** and **Flutter**, and deploying resilient infrastructure on **AWS**.
+
+With a strong foundation in data structures and algorithms honed through competitive programming (ICPC Regionalist), I thrive on transforming complex challenges into clean, efficient, and impactful code. I'm always looking to collaborate on innovative projects and contribute to building powerful technology.
+
+</td>
+<td valign="top" width="35%">
 
 <p align="center">
-  - 🚀 Building powerful backends with <b>Python & FastAPI</b> and dynamic frontends with <b>Next.js & Flutter</b>. <br>
-  - ☁️ Experienced in deploying and managing scalable, cost-efficient infrastructure on <b>AWS</b>. <br>
-  - 🏆 Passionate about competitive programming and algorithmic problem-solving (ICPC Regionalist & LeetCode Contributor).
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imprince0&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="imprince0" />
 </p>
 
-<br>
+</td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/imprince26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imprince26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imprince26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imprince26" height="30" width="40" /></a>
@@ -17,7 +28,9 @@
 <a href="https://www.codechef.com/users/imprince" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imprince" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### My Tech Stack:
 
 <h4>Backend</h4>
 <p align="left">
@@ -25,8 +38,6 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
 <h4>Frontend</h4>
@@ -45,7 +56,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
 <h4>Databases & Caching</h4>
@@ -58,18 +68,12 @@
 
 <br>
 
-<h3 align="center">My GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imprince0&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="imprince0" />
-</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imprince0&show_icons=true&locale=en&theme=vision-friendly-dark" alt="imprince0" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imprince0&theme=vision-friendly-dark" alt="imprince0" />
 </p>
-
-<br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imprince0&theme=vision-friendly-dark" alt="imprince0" /></a>
 </p>
